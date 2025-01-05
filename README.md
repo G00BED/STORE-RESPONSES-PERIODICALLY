@@ -4,4 +4,4 @@ PYTHON FUNCTION USED TO STORE THE RETURN OF ANOTHER FUNCTION IN A TXT DOCUMENT.
 
 DEFAULT - responses.txt // interval of 300 (5 - minutes)
 
-// GOOB //
+// GOOB // 01-03-25 //
